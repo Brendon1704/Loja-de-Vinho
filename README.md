@@ -1,6 +1,7 @@
 
 Alunos:
-Brendon Henrique da Silva Barbosa. / 
+
+Brendon Henrique da Silva Barbosa.  
 
 Henrique Moreno de Souza Cesar.
 
