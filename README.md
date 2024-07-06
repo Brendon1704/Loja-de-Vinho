@@ -3,7 +3,6 @@ Alunos:
 
 Brendon Henrique da Silva Barbosa.  
 
-Henrique Moreno de Souza Cesar.
 
 Projeto: Sistema de Loja de Vinhos - POO(Back-End)
 
